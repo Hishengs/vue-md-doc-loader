@@ -12,6 +12,10 @@ a webpack loader for writing vue in markdown docs
 npm i vue-md-doc-loader -D
 ```
 
+## demo
+
+![](./assets/demo-1.png)
+
 ## usage
 
 setup your webpack config
