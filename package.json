@@ -1,0 +1,34 @@
+{
+  "name": "vue-md-doc-loader",
+  "version": "0.0.1",
+  "description": "a webpack loader for writing vue in markdown docs",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hishengs/vue-md-doc-loader.git"
+  },
+  "keywords": [
+    "vue",
+    "markdown",
+    "loader",
+    "webpack",
+    "doc"
+  ],
+  "author": "Hisheng <hishengs@gmail.com>",
+  "license": "MIT",
+  "files": [
+    "src"
+  ],
+  "bugs": {
+    "url": "https://github.com/Hishengs/vue-md-doc-loader/issues"
+  },
+  "homepage": "https://github.com/Hishengs/vue-md-doc-loader#readme",
+  "dependencies": {
+    "highlight.js": "^11.2.0",
+    "loader-utils": "^2.0.0",
+    "markdown-it": "^12.2.0"
+  }
+}
